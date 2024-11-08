@@ -37,6 +37,6 @@ Tests the YOLO model on a video feed or video file, displaying detected objects 
 ## Sample Output
 | Real Face Detection | Spoof Detection |
 |----------------------|-----------------|
-| ![Real Face](https://github.com/YashWaghurdekar/Anti-Spoofing-for-Face-Recognition/blob/8d1bdf49cf02b6adbf7ce37e459b4835db68169b/real_face_sample.jpeg) | ![Spoof Face]() |
+| ![Real Face](https://github.com/YashWaghurdekar/Anti-Spoofing-for-Face-Recognition/blob/8d1bdf49cf02b6adbf7ce37e459b4835db68169b/real_face_sample.jpeg) | ![Spoof Face](https://github.com/YashWaghurdekar/Anti-Spoofing-for-Face-Recognition/blob/17d90e43e355e3d946a5e582f4e1e5c7b9ff7ece/spoof_face_sample.jpeg) |
 
 
