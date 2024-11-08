@@ -34,4 +34,9 @@ Tests the YOLO model on a video feed or video file, displaying detected objects 
 - Python 3.x
 - Required packages: `opencv-python`, `ultralytics`, `cvzone`
 
+## Sample Output
+| Real Face Detection | Spoof Detection |
+|----------------------|-----------------|
+| ![Real Face]() | ![Spoof Face]() |
+
 
